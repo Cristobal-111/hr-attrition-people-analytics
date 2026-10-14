@@ -1,0 +1,4 @@
+,ROC-AUC medio,Desv. estándar,Mínimo,Máximo
+Regresión logística,0.835,0.038,0.739,0.894
+Random Forest,0.814,0.039,0.712,0.886
+XGBoost,0.824,0.036,0.749,0.905
